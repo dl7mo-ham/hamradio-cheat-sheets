@@ -2,3 +2,7 @@ extends: default
 
 table:
   font-size: 10
+
+role:
+  smalltext:
+    font-size: 10
