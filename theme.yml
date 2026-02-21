@@ -3,4 +3,5 @@ extends: default
 table:
   role:
     small:
-      font_size: 9
+      body:
+        font_size: 9
