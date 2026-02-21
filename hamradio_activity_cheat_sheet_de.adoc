@@ -8,52 +8,66 @@
 :toc: left
 :toclevels: 1
 
-== Übersichtstabelle
-
 [cols="1,1,1,1,1", options="header"]
 |===
-| Spalte 1 | Spalte 2 | Spalte 3 | Spalte 4 | Spalte 5
+| | SOTA | GMA | SBW | POTA
 
-| Eintrag 1.1
-| Eintrag 1.2
-| Eintrag 1.3
-| Eintrag 1.4
-| Eintrag 1.5
+| Aktivitätsprogramm
+| Summits on the Air +
+https://www.sota.org.uk 
+| Global Mountain Activity +
+https://cqgma.org 
+| Sächsischer Bergwettbewerb +
+http://www.dl2lto.de 
+| Parks on the Air +
+https://pota.app 
 
-| Eintrag 2.1
-| Eintrag 2.2
-| Eintrag 2.3
-| Eintrag 2.4
-| Eintrag 2.5
+| Erforderliche QSOs für Aktivierer-Punkte
+| 4 QSOs zu unterschiedlichen Rufzeichen +
+ +
+Jeder Gipfel bringt nur einmal pro UTC-Kalenderjahr Punkte.
+| 4 QSOs zu unterschiedlichen Rufzeichen innerhalb eines UTC-Tages
+| 1 QSO für Bergpunkt +
+ +
+6 QSOs zu unterschiedlichen Rufzeichen für QSO-Punkt +
+ +
+Jeder Gipfel bringt nur einmal pro UTC-Kalenderjahr Punkte.
+| 10 QSOs innerhalb eines UTC-Tages
 
-| Eintrag 3.1
-| Eintrag 3.2
-| Eintrag 3.3
-| Eintrag 3.4
-| Eintrag 3.5
+| Bänder
+| alle (inkl. WARC)
+| alle (inkl. WARC)
+| alle ab 144 MHz
+| alle (inkl. WARC)
 
-| Eintrag 4.1
-| Eintrag 4.2
-| Eintrag 4.3
-| Eintrag 4.4
-| Eintrag 4.5
+| Betriebsarten
+| alle
+| alle
+| FM, SSB oder CW
+| alle
 
-| Eintrag 5.1
-| Eintrag 5.2
-| Eintrag 5.3
-| Eintrag 5.4
-| Eintrag 5.5
+| Datenaustausch
+| Rufzeichen und Rapport +
+SOTA-Referenznummer
+| Rufzeichen und Rapport
+| Rufzeichen und Rapport
+| Rufzeichen und Rapport
 
-| Eintrag 6.1
-| Eintrag 6.2
-| Eintrag 6.3
-| Eintrag 6.4
-| Eintrag 6.5
+| Bemerkungen
+| Letztes Stück zum Gipfel mit Muskelkraft besteigen. +
+Funkbetrieb nur abseits von Kraftfahrzeugen und mit portabler Stromversorgung.
+| Letztes Stück zum Gipfel mit Muskelkraft besteigen. +
+Funkbetrieb nur abseits von Kraftfahrzeugen und mit portabler Stromversorgung.
+| 
+| Aeronautische Aktivierungen und Satellitenkontakte erlaubt. +
+Funkbetrieb aus Kraftfahrzeugen erlaubt.
 
-| Eintrag 7.1
-| Eintrag 7.2
-| Eintrag 7.3
-| Eintrag 7.4
-| Eintrag 7.5
 |===
 
+FM Bergfrequenzen:
+----
+ 2 m	→	 145,425 MHz (alternativ: 145,500 MHz, 145,525 MHz oder 145,550 MHz)
+70 cm	→	 430,150 MHz
+23 cm	→	1297,500 MHz
+13 cm	→	2321,475 MHz
+----
