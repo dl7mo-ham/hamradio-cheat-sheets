@@ -1,4 +1,4 @@
 extends: default
 
 table:
-  font-size: 9
+  font-size: 10

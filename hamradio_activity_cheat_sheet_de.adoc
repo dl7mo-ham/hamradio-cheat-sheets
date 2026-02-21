@@ -5,6 +5,8 @@
 :doctype: article
 :pdf-page-size: A4
 :pdf-page-layout: landscape
+:noheader:
+:nofooter:
 
 [cols="1,1,1,1,1", options="header"]
 |===
