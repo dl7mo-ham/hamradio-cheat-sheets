@@ -1,0 +1,32 @@
+name: Build AsciiDoc PDF
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Asciidoctor PDF
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ruby-full
+          gem install asciidoctor
+          gem install asciidoctor-pdf
+
+      - name: Build PDF
+        run: |
+          asciidoctor-pdf -a pdf-page-layout=landscape hamradio_activity_cheat_sheet_de.adoc
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: hamradio-activity-cheat-sheet-de-pdf
+          path: hamradio_activity_cheat_sheet_de.pdf
+
