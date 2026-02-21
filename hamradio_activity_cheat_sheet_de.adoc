@@ -66,10 +66,12 @@ Funkbetrieb aus Kraftfahrzeugen erlaubt.
 
 [.smalltext]
 FM Bergfrequenzen:
-[.smalltext]
 ----
  2 m	→	 145,425 MHz (alternativ: 145,500 MHz, 145,525 MHz oder 145,550 MHz)
 70 cm	→	 430,150 MHz
 23 cm	→	1297,500 MHz
 13 cm	→	2321,475 MHz
 ----
+
+[align=right]
+mailto:dl7mo@gmx.de[dl7mo@gmx.de]

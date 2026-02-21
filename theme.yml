@@ -6,3 +6,6 @@ table:
 role:
   smalltext:
     font-size: 10
+
+code:
+  font-size: 10
