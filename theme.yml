@@ -1,11 +1,4 @@
 extends: default
 
 table:
-  role:
-    small:
-      head:
-        font-size: 8
-      body:
-        font-size: 8
-      foot:
-        font-size: 8
+  font-size: 9
