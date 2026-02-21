@@ -17,9 +17,15 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y ruby-full
+
           gem install --user-install asciidoctor
           gem install --user-install asciidoctor-pdf
-          echo "$HOME/.local/share/gem/ruby/$(ruby -e 'print RUBY_VERSION')/bin" >> $GITHUB_PATH
+
+          # Ruby ermittelt automatisch den richtigen Pfad
+          GEM_BIN_DIR="$(ruby -e 'print Gem.user_dir')/bin"
+
+          echo "$GEM_BIN_DIR" >> $GITHUB_PATH
+          echo "GEM_BIN_DIR=$GEM_BIN_DIR"  # Debug-Ausgabe
 
       - name: Build PDF
         run: |
