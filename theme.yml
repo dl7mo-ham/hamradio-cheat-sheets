@@ -1,2 +1,5 @@
-base:
-  font_size: 10
+extends: default
+
+role:
+  small:
+    font_size: 10

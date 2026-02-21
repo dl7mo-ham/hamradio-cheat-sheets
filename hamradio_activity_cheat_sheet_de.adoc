@@ -6,7 +6,7 @@
 :pdf-page-size: A4
 :pdf-page-layout: landscape
 
-[cols="1,1,1,1,1", options="header"]
+[cols="1,1,1,1,1", options="header", .small]
 |===
 | | SOTA | GMA | SBW | POTA
 
