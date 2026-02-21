@@ -1,0 +1,59 @@
+= DL7MO Cheat Sheet für Amateurfunk-Aktivitätsprogramme
+:author: DL7MO
+:revdate: 2026-02-21
+:revnumber: 1.0
+:doctype: article
+:pdf-page-size: A4
+:pdf-page-layout: landscape
+:toc: left
+:toclevels: 1
+
+== Übersichtstabelle
+
+[cols="1,1,1,1,1", options="header"]
+|===
+| Spalte 1 | Spalte 2 | Spalte 3 | Spalte 4 | Spalte 5
+
+| Eintrag 1.1
+| Eintrag 1.2
+| Eintrag 1.3
+| Eintrag 1.4
+| Eintrag 1.5
+
+| Eintrag 2.1
+| Eintrag 2.2
+| Eintrag 2.3
+| Eintrag 2.4
+| Eintrag 2.5
+
+| Eintrag 3.1
+| Eintrag 3.2
+| Eintrag 3.3
+| Eintrag 3.4
+| Eintrag 3.5
+
+| Eintrag 4.1
+| Eintrag 4.2
+| Eintrag 4.3
+| Eintrag 4.4
+| Eintrag 4.5
+
+| Eintrag 5.1
+| Eintrag 5.2
+| Eintrag 5.3
+| Eintrag 5.4
+| Eintrag 5.5
+
+| Eintrag 6.1
+| Eintrag 6.2
+| Eintrag 6.3
+| Eintrag 6.4
+| Eintrag 6.5
+
+| Eintrag 7.1
+| Eintrag 7.2
+| Eintrag 7.3
+| Eintrag 7.4
+| Eintrag 7.5
+|===
+
