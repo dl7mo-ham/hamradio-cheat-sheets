@@ -1,8 +1,7 @@
 extends: default
 
 heading:
-  h1:
-    front-size: 24
+  h1-font-size: 10
 
 table:
   font-size: 10
