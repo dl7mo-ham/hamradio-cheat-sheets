@@ -72,5 +72,3 @@ FM Bergfrequenzen:
 23 cm	→	1297,500 MHz
 13 cm	→	2321,475 MHz
 ----
-
-mailto:dl7mo@gmx.de[dl7mo@gmx.de]
