@@ -1,7 +1,7 @@
-= DL7MO Cheat Sheet für Amateurfunk-Aktivitätsprogramme
+= Cheat Sheet für Amateurfunk-Aktivitätsprogramme
 :author: DL7MO
 :revdate: 2026-02-21
-:revnumber: 1.0
+:revnumber: 1.0.1
 :doctype: article
 :pdf-page-size: A4
 :pdf-page-layout: landscape
@@ -74,4 +74,4 @@ FM Bergfrequenzen:
 ----
 
 [.righttext]
-mailto:dl7mo@gmx.de[dl7mo@gmx.de]
+von mailto:dl7mo@gmx.de[DL7MO]
